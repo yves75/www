@@ -1,3 +1,1 @@
-[
-{"backgroundImage":"bg.png","title": "title"}
-]
+jsonpCallback({"message":"Hello"})
